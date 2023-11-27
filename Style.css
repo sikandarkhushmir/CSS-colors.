@@ -1,0 +1,34 @@
+/* COLOR NAME */
+h1{
+    color: tomato;
+}
+
+/* HEX CODE */
+h1{
+    color: #732373;
+}
+/* RGB */
+h1{
+    color: rgb(45, 90, 63);
+}
+
+/* BACKGROUND COLOR */
+/*body{
+    background-color: rgb(56, 7, 3);
+    color: yellow;
+} */
+
+/* div{ 
+    background-color: yellow;
+    color: blueviolet;
+} */
+
+/* OPACITY */
+#div{
+    background-color: green;
+    opacity: 0.5;
+}
+
+img{
+    opacity: 0.1;
+}
